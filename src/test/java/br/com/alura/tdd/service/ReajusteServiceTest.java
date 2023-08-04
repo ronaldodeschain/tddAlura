@@ -35,6 +35,7 @@ public class ReajusteServiceTest {
 						LocalDate.now(), 
 						new BigDecimal("2000.00"));
 		
+		
 		service.concederReajuste(fulano, 
 				Desempenho.BOM);
 		
